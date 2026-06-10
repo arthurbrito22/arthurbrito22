@@ -47,7 +47,7 @@ Acredito que a qualidade de software não é uma fase final, mas um processo con
 *   🤖 **Robot Framework:** Conhecimento em automação de testes para web e APIs.
 *   🐍 **Python:** Desenvolvimento e aprimoramento contínuo de lógica de programação voltada para automação de testes, scripts e manipulação de dados.
 *   🌲 **Cypress:** Em fase de estudos práticos para automação de testes modernos de front-end de ponta a ponta (E2E) em JavaScript.
-*   🏆 **Foco Profissional:** Atualmente estudando para a conquista da certificação **CTFL (Certified Tester Foundation Level)** do ISTQB.
+*   🏆 **Foco Profissional:** Atualmente estudando para a conquista da certificação **CTFL (Certified Tester Foundation Level)** do ISTQB, estudando também Automação de dados com Python e IA e também para Cloud.
 
 <div align="center">
             <img align="center" alt="artPy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;
