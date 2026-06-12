@@ -140,7 +140,6 @@ Whether it is to share experiences about the QA field, test automation, or the l
 
 <p align="center">
     <a href="https://www.linkedin.com/in/artbrt/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:arthurevaristo1@gmail.com" target="_blank"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/314173514976591883" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
