@@ -14,7 +14,7 @@ Atualmente, estou expandindo meus conhecimentos em engenharia de software criand
 
 ---
 
-### 💻 Projetos em Destaque
+### 💻 Projetos em Destaque(Em progresso)
 
 *   🚀 **[Task Management API](https://github.com/arthurbrito22/task-api-spring-boot)**: API RESTful sendo construída em **Java e Spring Boot** com persistência em **PostgreSQL** via **Spring Data JPA**. Implementa arquitetura em camadas (Controller, Service, Repository), boas práticas de injeção de dependência, manipulação de erros HTTP e serialização JSON.
 
@@ -91,7 +91,7 @@ Currently, I am actively expanding my technical skill set by building RESTful AP
 
 ---
 
-### 💻 Featured Projects
+### 💻 Featured Projects(In Progress)
 
 *   🚀 **[Task Management API](https://github.com/arthurbrito22/task-api-spring-boot)**: RESTful API built with Java and Spring Boot, featuring data persistence in PostgreSQL via Spring Data JPA. It implements a layered architecture (Controller, Service, Repository), dependency injection best practices, HTTP error handling, and JSON serialization.
 
