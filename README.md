@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Location-Recife,%20PE-red?style=flat-square" alt="Location">
 </p>
 
-Moro em Recife - PE e atualmente trabalho como **QA Júnior na Accenture**. Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e focado em garantir a qualidade de software tanto pelo olhar de **Testes e Automação** quanto pelo desenvolvimento de **Aplicações Backend robustas**.
+Moro em Recife - PE e atualmente trabalho como **QA Júnior na Accenture**. Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e focado em garantir a qualidade de software tanto pelo olhar de **Testes e Automação** quanto pelo desenvolvimento de **Aplicações Backend**.
 
 Atualmente, estou expandindo meus conhecimentos em engenharia de software criando APIs RESTful com **Java, Spring Boot e PostgreSQL**, unindo a visão analítica de QA ao desenvolvimento de software.
 
