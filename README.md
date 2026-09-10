@@ -12,7 +12,7 @@
 
 ---
 
-I'm a QA Junior at **Accenture**, based in Recife, Brazil, and an Analysis and Systems Development student. My daily work focuses on test engineering and quality assurance, while I expand my skills into backend development.
+I'm a QA Junior at **Accenture**, based in Recife, Brazil, and an Analysis and Systems Development student. My daily work focuses on test engineering and quality assurance, while I expand my skills into software development.
 
 My main focus areas:
 
