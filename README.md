@@ -74,4 +74,4 @@ My core expertise & daily stack:
 
 ### Featured Technical Projects
 
-- 🚀 **[Task Management API](
+- 🚀 **[Task Management API](https://github.com/arthurbrito22/task-api-spring-boot)**: 3-layer RESTful API built with **Java 21**, **Spring Boot 3**, and **PostgreSQL**, featuring global exception handling, DTO contract validation, and Conventional Commits.
