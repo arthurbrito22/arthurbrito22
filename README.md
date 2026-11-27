@@ -3,25 +3,23 @@
 </h1>
 
 <h3 align="center">
-  QA Junior @ Accenture | QA Automation & Java Student
+  Quality Assurance (QA) | Quality Engineer @ Accenture
 </h3>
 
 <p align="center">
-  Ensuring software quality and learning software engineering step by step.
+  Manual & Automated Testing • Robot Framework • Playwright • Salesforce & Oracle BRM • APIs & SQL
 </p>
 
 ---
 
-I'm a QA Junior at **Accenture**, based in Recife, Brazil, and an Analysis and Systems Development student. My daily work focuses on test engineering and quality assurance, while I expand my skills into software development.
+I'm a **Quality Assurance Analyst (Quality Engineering Associate)** at **Accenture Brasil**, based in Pernambuco, Brazil. I work on end-to-end validation in critical telecommunications environments, combining strong functional/exploratory testing with **Robot Framework** automation, **Generative AI** to accelerate test creation, and ongoing studies in **Playwright** for modern web test automation.
 
-My main focus areas:
+My core expertise & daily stack:
 
-- Software Quality & Test Automation (Web & API)
-- Test Planning, STLC & Shift-Left Strategy
-- Java Fundamentals & Object-Oriented Programming
-- RESTful APIs & Relational Databases (Learning)
-
-Currently deepening my automation skills with **Robot Framework** and **Python**, while building foundational knowledge in **Java & Spring Boot**.
+- **End-to-End Quality Assurance:** Functional, Exploratory, Regression, Integration, and Pre-UAT testing in prodlike environments.
+- **Test Automation & GenAI:** Native execution of **Robot Framework** suites in **Oracle BRM**, leveraging Generative AI to design and accelerate new automated test scenarios, studying **Playwright** for automated testing, plus **Tricentis Tosca (AS1 & AS2)** certifications.
+- **Enterprise Ecosystems & APIs:** Validation across **Salesforce** and **Oracle BRM (Billing)**, REST API transactions/callbacks, data integrity checks via **SOQL** and **SQL**, and **Linux** log analysis.
+- **Software Engineering Foundation:** Practical background in **Java 21**, **Spring Boot 3**, **Python**, and **PostgreSQL** to investigate service-layer defects and build QA support tools.
 
 ### Connect With Me
 <p>
@@ -40,51 +38,40 @@ Currently deepening my automation skills with **Robot Framework** and **Python**
 
 ---
 
-### Testing & Automation
+### Testing, Automation & QA Ecosystem
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" height="40" alt="Robot Framework"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" height="45" alt="Robot Framework"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="40" alt="Playwright"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="45" height="45" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/Tricentis%20Tosca-AS1%20%26%20AS2-0052CC?style=for-the-badge" height="40" alt="Tricentis Tosca"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/GenAI%20in%20Testing-6E40C9?style=for-the-badge" height="40" alt="GenAI in Testing"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="40" alt="Jira"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="40" alt="Salesforce"/>
 </p>
 
-### Learning & Backend Studies
+### Backend, Data & Environment Tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-</p>
-
-### Tools & Ecosystem
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="45" height="45" alt="Jira"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" width="45" height="45" alt="Salesforce"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </p>
 
 ---
 
-### Learning Project
+### Featured Technical Projects
 
-* 🚀 **[Task Management API](https://github.com/arthurbrito22/task-api-spring-boot)**: Personal learning project exploring Java, Spring Boot, and PostgreSQL to understand RESTful API structure and data persistence.
-
----
-
-<br>
-<p align="center"> <i>Quality is not a final step, but a continuous engineering mindset.</i> </p>
-<br><br>
-
-<p align="center">
-  <img
-    src="./metrics.plugin.isocalendar.svg"
-    alt="Isometric contribution calendar"
-  />
-</p>
+- 🚀 **[Task Management API](
